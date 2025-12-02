@@ -1,0 +1,56 @@
+.p-2{
+     /* border:solid rgb(255, 216, 245) 1px;  */
+     /* padding: 2%; */
+    margin: 0.6%;
+    width: 10vw;
+    /* border-radius: 5%; */
+    /* display: inline-flex; */
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.2);  
+    max-width: 250px;
+}
+/* .listCard{
+    border:solid rgb(255, 216, 245) 1px; 
+    padding: 2%;
+    margin: 2%;
+    width: 70vw;
+    border-radius: 5%;
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+} */
+ img{
+    max-width: 200px;
+ }
+/* .pImg{
+    width:10vw;
+    min-width: 20vw;
+    /* min-height: 200px; */
+  /*  max-width:150px ;
+    box-shadow: none;} */
+/* #gridItem{
+    min-height: 100%;
+    border:solid rgb(255, 216, 245) 1px;
+    border-radius: 5%;
+} */
+
+.listButtons{
+    margin-right: 15%;
+    /* margin-top: 0.5%; */
+} 
+
+.msg{
+    margin-top: -8%;
+}
+.b-add{
+    margin-bottom: 0.5%;
+    margin-top: -2%;
+}
+.inputD{
+    margin: 4%;
+    height:7vh;
+}
+#gridItem{
+   height: 100%;
+}

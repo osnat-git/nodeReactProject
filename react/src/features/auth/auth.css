@@ -1,0 +1,33 @@
+ .background{
+     background-image: url('http://localhost:1111/רקע גלידה.png'); 
+    /* background-repeat: no-repeat; */
+    /* border-radius: 10%; */
+    background-color: rgba(255, 255, 255,0.5);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    z-index: -5;
+    opacity:0.9;
+    position: absolute;
+    top: 2%;
+    left: 0%;
+    bottom: -10%;
+  } 
+  form{
+    position: relative;
+    margin-top:8%;
+    /* display: flex;
+    flex-direction: column; */
+    top:0%;
+  }
+  .login-register{
+    display: flex;
+    flex-direction: column;
+  }
+  .message{
+    position: relative;
+    z-index: 5;
+    margin: 0.5%;
+    top:5vh;
+    opacity: 2;
+  }
